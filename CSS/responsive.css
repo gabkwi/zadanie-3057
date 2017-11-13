@@ -25,7 +25,6 @@
         position: absolute;
         top: 40%;
         left: 10%;
-
     }
 }
 
@@ -45,16 +44,20 @@
     }
     #main-header .header h1 {
         color: #fff;
-        top: 30%;
-       right: 2%;
+        top: 15%;
+       right: 0%;
+        width: 40%;
         position: absolute;
+        font-size: 1.6em;
 
     }
     #main-header .header h2 {
         color: #fff;
         position: absolute;
-        top: 20%;
-       right: 25%;
+            top: 8%;
+       right: 0%;
+        width: 40%;
+        font-size: 1.4em;
 
     }
 
